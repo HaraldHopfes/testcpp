@@ -1,2 +1,2 @@
 all:
-  echo Test
+	echo Test
